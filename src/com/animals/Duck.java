@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Duck extends Animal implements RunInterface,SwimInterface,FlyInterface {
 

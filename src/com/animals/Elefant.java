@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Elefant extends Animal implements RunInterface, SwimInterface {
 
